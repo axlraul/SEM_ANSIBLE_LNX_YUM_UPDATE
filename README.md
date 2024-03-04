@@ -1,1 +1,2 @@
-# SEM_ANSIBLE_LNX_YUM_UPDATE
+# SEM_LNX_PROVISIONING
+code for doing common tasks to new nodes
